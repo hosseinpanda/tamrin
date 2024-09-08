@@ -1,0 +1,4 @@
+name=input("esmet chiye? ")
+family=input("familit chiye? ")
+birth=input("saal tavalodet ro benevis : ")
+print("esm shoma " +name+" ast va family shoma "+family+" ast va shoma dar saal "+birth+ " be donya amade eed")
